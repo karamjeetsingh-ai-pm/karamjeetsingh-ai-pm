@@ -6,7 +6,7 @@ I bridge AI strategy and execution, with 11+ years building Enterprise SaaS plat
 
 ---
 
-## 🧩 My Product Approach
+## 🧩 My AI Product Approach
 
 The approach behind every module in Astra AI and every AI system I've shipped is treating the **trust layer** as the product.
 
