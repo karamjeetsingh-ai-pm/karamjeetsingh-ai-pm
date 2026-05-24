@@ -23,7 +23,7 @@ The approach behind every module in Astra AI and every AI system I've shipped is
 
 | # | Project | What It Does | Live Demo |
 |---|---------|-------------|-----------|
-| 1 | **[Astra AI — Enterprise Revenue Intelligence](https://github.com/karamjeetsingh-ai-pm/Astra-Multi-Agent-Platform#1-enterprise-revenue-intelligence)** | AE pipeline + CFO P&L — same data, two AI lenses | [▶ Launch](https://astra-ai-enterprise-multi-agent-revenue-intelligence-platform.streamlit.app/) |
+| 1 | **[Astra AI — Enterprise Revenue Intelligence](https://github.com/karamjeetsingh-ai-pm/Astra-Multi-Agent-Platform#1-enterprise-revenue-intelligence)** | AE real-time deal coaching AI + CFO P&L intelligence — Why is APAC margin down? | [▶ Launch](https://astra-ai-enterprise-multi-agent-revenue-intelligence-platform.streamlit.app/) |
 | 2 | **[Astra AI — Enterprise SDR Agent](https://github.com/karamjeetsingh-ai-pm/Astra-Multi-Agent-Platform#2-enterprise-sdr-agent)** | Autonomous lead research, scoring & personalised outreach with HITL | [▶ Launch](https://astra-ai-enterprise-multi-agent-revenue-intelligence-platform.streamlit.app/) |
 | 3 | **[Astra AI — Multi-Agent Command Centre](https://github.com/karamjeetsingh-ai-pm/Astra-Multi-Agent-Platform#3-multi-agent-command-centre)** | Master orchestrator → routes tasks to Sales, HR, Finance, Research agents | [▶ Launch](https://astra-ai-enterprise-multi-agent-revenue-intelligence-platform.streamlit.app/) |
 | 4 | **[Astra AI — AskHR Policy Assistant](https://github.com/karamjeetsingh-ai-pm/Astra-Multi-Agent-Platform#4-askhr-policy-assistant)** | RAG over HR docs — instant answers with source citations | [▶ Launch](https://astra-ai-enterprise-multi-agent-revenue-intelligence-platform.streamlit.app/) |
